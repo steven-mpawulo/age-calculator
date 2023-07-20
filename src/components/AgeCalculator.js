@@ -8,15 +8,15 @@ const AgeCalculator = () => {
         <div className="age-card-container">
             <div className="upper-container">
                 <div className="day-container">
-                <label htmlFor="day">Day</label> <br />
+                <label htmlFor="day">DAY</label> <br />
                 <input type="number" id='day' name='day' placeholder='DD'/>
                 </div>
                <div className="month-container">
-               <label htmlFor="month">Month</label> <br />
+               <label htmlFor="month">MONTH</label> <br />
                 <input type="number" id='month' name='month' placeholder='MM'/>
                </div>
                 <div className="year-container">
-                <label htmlFor="year">Year</label> <br />
+                <label htmlFor="year">YEAR</label> <br />
                 <input type="number" id='year' name='year' placeholder='YY'/>
                 </div>
             </div>

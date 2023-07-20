@@ -21,6 +21,11 @@
     height: 10%;
 }
 
+label {
+    font-family: Poppins;
+    color: hsl(0, 1%, 44%)
+}
+
 input[type=number] {
     width: 50%;
     height: 80%;
