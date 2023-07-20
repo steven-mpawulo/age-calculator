@@ -1,5 +1,6 @@
 import React from 'react'
 import IconArrow from '../images/icon-arrow.svg'
+import '../styles/age_calculator.css'
 
 const AgeCalculator = () => {
   return (
