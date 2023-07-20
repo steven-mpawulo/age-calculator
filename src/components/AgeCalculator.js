@@ -9,15 +9,15 @@ const AgeCalculator = () => {
             <div className="upper-container">
                 <div className="day-container">
                 <label htmlFor="day">Day</label> <br />
-                <input type="number" id='day' name='day'/>
+                <input type="number" id='day' name='day' placeholder='DD'/>
                 </div>
                <div className="month-container">
                <label htmlFor="month">Month</label> <br />
-                <input type="number" id='month' name='month'/>
+                <input type="number" id='month' name='month' placeholder='MM'/>
                </div>
                 <div className="year-container">
                 <label htmlFor="year">Year</label> <br />
-                <input type="number" id='year' name='year'/>
+                <input type="number" id='year' name='year' placeholder='YY'/>
                 </div>
             </div>
             <div className="middle-container">
