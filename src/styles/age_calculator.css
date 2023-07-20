@@ -18,6 +18,7 @@
 .upper-container {
     display: flex;
     margin-bottom: 30px;
+    height: 10%;
 }
 
 input[type=number] {
@@ -29,6 +30,7 @@ input[type=number] {
     display: flex;
     width: 100%;
     align-items: center;
+    height: 5%;
 }
 hr {
     width: 100%;
@@ -41,3 +43,30 @@ img {
     border-radius: 50%;
     margin: 0;
 }
+
+
+
+.years {
+color: hsl(259, 100%, 65%);
+font-size: 60px;
+font-weight: bold;
+}
+
+.months {
+color: hsl(259, 100%, 65%);
+font-size: 60px;
+font-weight: bold;
+}
+
+.days {
+color: hsl(259, 100%, 65%);
+font-size: 60px;
+font-weight: bold;
+}
+
+p {
+font-size: 58px;
+font-weight: bold;
+margin: 0;
+}
+
