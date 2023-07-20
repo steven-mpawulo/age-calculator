@@ -24,7 +24,11 @@ const AgeCalculator = () => {
                 <img src={IconArrow} alt="icon arroww" />
             </div>
 
-            <div className="lower-container"></div>
+            <div className="lower-container">
+                <p>38 years</p>
+                <p>3 months</p>
+                <p>26 days</p>
+            </div>
         </div>
     </div>
   )
