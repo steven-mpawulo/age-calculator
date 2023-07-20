@@ -1,4 +1,5 @@
 import React from 'react'
+import IconArrow from '../images/icon-arrow.svg'
 
 const AgeCalculator = () => {
   return (
@@ -20,7 +21,9 @@ const AgeCalculator = () => {
             </div>
             <div className="middle-container">
                 <hr />
+                <img src={IconArrow} alt="icon arroww" />
             </div>
+
             <div className="lower-container"></div>
         </div>
     </div>
