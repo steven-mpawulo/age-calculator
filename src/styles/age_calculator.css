@@ -1,4 +1,15 @@
 .main-container {
     height: 100vh;
     background-color: hsl(0, 0%, 86%);
+    padding: 10%;
+}
+
+.age-card-container {
+    width: 60%;
+    height: 60%;
+    border: 2px, solid, white;
+    margin: 0 auto;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px 10px 100px 10px;
+
 }
