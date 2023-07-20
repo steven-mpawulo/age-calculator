@@ -18,7 +18,9 @@ const AgeCalculator = () => {
                 <input type="number" id='year' name='year'/>
                 </div>
             </div>
-            <div className="middle-container"></div>
+            <div className="middle-container">
+                <hr />
+            </div>
             <div className="lower-container"></div>
         </div>
     </div>
