@@ -50,23 +50,37 @@ img {
 color: hsl(259, 100%, 65%);
 font-size: 60px;
 font-weight: bold;
+font-family: Poppins-Bold;
 }
 
 .months {
 color: hsl(259, 100%, 65%);
 font-size: 60px;
 font-weight: bold;
+font-family: Poppins-Bold;
 }
 
 .days {
 color: hsl(259, 100%, 65%);
 font-size: 60px;
 font-weight: bold;
+font-family: Poppins-Bold;
 }
 
 p {
 font-size: 58px;
 font-weight: bold;
 margin: 0;
+font-family: Poppins-Bold;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: Poppins-Bold;
+    src: url(../fonts/Poppins-Bold.ttf);
 }
 
